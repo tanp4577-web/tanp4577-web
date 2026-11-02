@@ -1,0 +1,23 @@
+name: Update recent activity
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: jamesgeorge007/github-activity-readme@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          MAX_LINES: 5
+          COMMIT_NAME: Tanmay Pondhe
+          COMMIT_EMAIL: 270278201+tanp4577-web@users.noreply.github.com
+          COMMIT_MSG: update recent activity
+          EMPTY_COMMIT_MSG: keep workflow active
