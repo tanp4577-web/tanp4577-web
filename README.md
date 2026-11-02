@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=230&section=header&text=Tanmay%20Pondhe&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20Student%20-%20AI%20Agents%20and%20Web%20Development&descSize=18&descAlignY=58" alt="Tanmay Pondhe" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Tanmay%20Pondhe&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=50" alt="Tanmay Pondhe" />
 
 <a href="https://github.com/tanp4577-web">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=900&color=7C5CFF&center=true&vCenter=true&width=640&height=50&lines=Building+AI+agents+and+web+apps;Making+refactors+safe+with+Refactor+Guard;Helping+VIT+students+prep+for+placements;AI+and+ML+Developer+Intern+at+Forke" alt="Typing intro" />
