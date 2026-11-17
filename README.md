@@ -45,6 +45,7 @@
 </div>
 
 <!--START_SECTION:activity-->
+1. ❗ Opened issue [#31](https://github.com/tanp4577-web/AiplacementTracker/issues/31) in [tanp4577-web/AiplacementTracker](https://github.com/tanp4577-web/AiplacementTracker)
 <!--END_SECTION:activity-->
 
 <div align="center">
